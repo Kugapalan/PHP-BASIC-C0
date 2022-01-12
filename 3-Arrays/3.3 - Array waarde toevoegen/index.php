@@ -1,5 +1,5 @@
 <?php
-    $myHeroes =  ['Superman', 'Donald Duck', 'Badr hari'];
-    array_push($myHeroes, 'Obama');
+    $myHeroes =  ['Spiderman', 'Black Panther', 'Hulk'];
+    array_push($myHeroes, 'Thor');
     print_r($myHeroes);
 ?>
