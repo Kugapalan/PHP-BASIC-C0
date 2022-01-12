@@ -27,27 +27,27 @@ if($_test1_ > $_test2_){
     echo "groter dan";
 }
 else{
-    echo "de vergelijking is niet groter dan";
+    echo "de vergelijking is niet groter dan test 1";
 }
 echo "<br>";
 if($_test1_ < $_test2_){
     echo "test 1 is kleiner dan test 2";
 }
 else{
-    echo "de vergelijking is niet kleiner dan";
+    echo "test 1 is niet kleiner dan test 2";
 }
 echo "<br>";
 if($_test1_ >= $_test2_){
     echo "groter of gelijk aan test 2";
 }
 else{
-    echo "de vergelijking is niet groter of gelijk aan";
+    echo "de vergelijking is niet groter of gelijk aan 2";
 }
 echo "<br>";
 if($_test1_ <= $_test2_){
     echo "kleiner of gelijk aan test 2";
 }
 else{
-    echo "de vergelijking is niet kleiner of gelijk aan";
+    echo "de vergelijking is niet kleiner of gelijk aan 2";
 }
 ?>
