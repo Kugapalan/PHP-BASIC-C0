@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-         require '_includes_/menu.php';
+         require 'includes/menu.php';
 ?>
 <head>
     <meta charset="UTF-8">
