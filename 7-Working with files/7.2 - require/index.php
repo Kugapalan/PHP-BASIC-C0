@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+         require '_includes_/menu.php';
+?>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,10 +10,6 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <div class="menu">
-        <?php include '_includes_/menu.php';?>
-    </div>
 
 </body>
 </html>
